@@ -1,0 +1,3 @@
+from VirtualCoffeeMachine.menu import Menu, MenuItem
+from VirtualCoffeeMachine.coffee_maker import CoffeeMaker
+from VirtualCoffeeMachine.money_machine import MoneyMachine
